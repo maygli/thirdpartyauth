@@ -1,2 +1,2 @@
 # thirdpartyauth
-Golang library for third party authentification
+Currently supported Google, Telegramm, VK, Yandex
